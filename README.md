@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `USDJPY_5m.csv` (11,094 rows, `2026-07-09` -> `2026-09-02`, 1.07 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdjpy)** — **1,846,308** `5m` rows (full `1m`: 9,209,554), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `USDJPY_5m.csv` (11,088 rows, `2026-07-09` -> `2026-09-02`, 1.07 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdjpy)** — **1,846,308** `5m` rows (full `1m`: 9,184,987), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | US Dollar / Japanese Yen · Forex | US Dollar / Japanese Yen · Forex |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,094 | **1,846,308** |
+| 5m rows | 11,088 | **1,846,308** |
 | Size | 1.07 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdjpy) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `USDJPY_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/usdjpy) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`USDJPY_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:10:00+00:00 | 163.021 | 163.043 | 163.021 | 163.024 | 295 |
-| 2026-07-09T13:15:00+00:00 | 163.024 | 163.025 | 162.903 | 162.965 | 1313 |
-| 2026-07-09T13:20:00+00:00 | 162.965 | 162.999 | 162.964 | 162.985 | 978 |
-| 2026-07-09T13:25:00+00:00 | 162.985 | 162.998 | 162.972 | 162.984 | 686 |
-| 2026-07-09T13:30:00+00:00 | 162.984 | 162.987 | 162.962 | 162.976 | 955 |
+| 2026-07-09T13:40:00+00:00 | 162.979 | 162.981 | 162.918 | 162.94 | 716 |
+| 2026-07-09T13:45:00+00:00 | 162.94 | 162.974 | 162.932 | 162.95 | 522 |
+| 2026-07-09T13:50:00+00:00 | 162.95 | 162.978 | 162.947 | 162.974 | 437 |
+| 2026-07-09T13:55:00+00:00 | 162.974 | 162.974 | 162.924 | 162.949 | 518 |
+| 2026-07-09T14:00:00+00:00 | 162.949 | 162.951 | 162.898 | 162.899 | 759 |
 
 **Last rows**
 
